@@ -1,4 +1,5 @@
 function hello(name) {
   return `Hello ${name}`;
 }
-dd
+
+module.exports = hello
